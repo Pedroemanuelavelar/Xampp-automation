@@ -4,7 +4,7 @@ A script that automates the opening of XAMPP on Linux.
 
 >This script is recommended only for users using Linux distributions!
 
-* Open the terminasl in the folder that was cloned
+* Open the terminal in the folder that was cloned
 
 * To run on your machine, you need to run this command:
 
